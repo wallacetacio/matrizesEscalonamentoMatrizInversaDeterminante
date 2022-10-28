@@ -1,0 +1,2 @@
+# matrizesEscalonamentoMatrizInversaDeterminante
+Exercício sobre matemática discreta.
